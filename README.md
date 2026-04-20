@@ -63,16 +63,6 @@ Ingeniero de Sistemas con Especialización en Ingeniería de Software. Me apasio
 
 ---
 
-## 📌 Proyectos Destacados
-
-| Proyecto | Tecnología |
-|---|---|
-| [Talleres POO](https://github.com/madazabran13/Taller-2-POO) | Java · OOP |
-| [Parcial Corte 1](https://github.com/madazabran13/Parcial-Corte-1-) | Java |
-| [Proyecto de Aula](https://github.com/madazabran13/Proyecto_de_Aula---1-Entrega-) | Java |
-
----
-
 > *"Herramientas y tecnologías que utilizo para crear soluciones digitales de calidad."*
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-ingemd.vercel.app-3ECF8E?style=flat-square&logo=vercel&logoColor=white)](https://ingemd.vercel.app)
